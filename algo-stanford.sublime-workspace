@@ -1,0 +1,1783 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cell",
+				"cellspacing	Attr"
+			],
+			[
+				"par",
+				"partners_list"
+			],
+			[
+				"vice",
+				"vice_list"
+			],
+			[
+				"part",
+				"partners"
+			],
+			[
+				"create",
+				"create_user"
+			],
+			[
+				"HTML",
+				"html_message"
+			],
+			[
+				"back",
+				"background-color: "
+			],
+			[
+				"hide",
+				"hideInvisible"
+			],
+			[
+				"update",
+				"updateBarrel"
+			],
+			[
+				"font-",
+				"font-family: "
+			],
+			[
+				"backg",
+				"background-position: "
+			],
+			[
+				"cover",
+				"coverwidth"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"scientology",
+				"scientology-expansion"
+			],
+			[
+				"paddi",
+				"padding-bottom"
+			],
+			[
+				"hei",
+				"heightplus"
+			],
+			[
+				"border-",
+				"border-width: "
+			],
+			[
+				"It",
+				"It’s"
+			],
+			[
+				"large-",
+				"large-tablet-up"
+			],
+			[
+				"min-",
+				"min-width: "
+			],
+			[
+				"ju",
+				"justify"
+			],
+			[
+				"figu",
+				"figure"
+			],
+			[
+				"news",
+				"newsbriefs"
+			],
+			[
+				"tran",
+				"transition-delay: "
+			],
+			[
+				"bord",
+				"border-top: "
+			],
+			[
+				"museum",
+				"museum-image"
+			],
+			[
+				"background",
+				"background-image"
+			],
+			[
+				"cur",
+				"cursor: "
+			],
+			[
+				"mobile",
+				"mobileMode"
+			],
+			[
+				"line",
+				"linesCanvas"
+			],
+			[
+				"cure",
+				"currentArea"
+			],
+			[
+				"curre",
+				"currentPoint"
+			],
+			[
+				"current",
+				"currentArea"
+			],
+			[
+				"curr",
+				"currentPoint"
+			],
+			[
+				"to",
+				"toFixed"
+			],
+			[
+				"pro",
+				"progress"
+			],
+			[
+				"up",
+				"updateCanvas"
+			],
+			[
+				"currentA",
+				"currentAreaIndex"
+			],
+			[
+				"tl",
+				"tl"
+			],
+			[
+				"adL",
+				"adLinesCanvas"
+			],
+			[
+				"draw",
+				"drawCircle"
+			],
+			[
+				"clear",
+				"clearRect"
+			],
+			[
+				"c",
+				"cleansing"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"can",
+				"adLinesCanvas"
+			],
+			[
+				"cl",
+				"clearRect"
+			],
+			[
+				"my",
+				"myCurrentKey"
+			],
+			[
+				"ease",
+				"easeInOut"
+			],
+			[
+				"ad",
+				"adLinesCanvas"
+			],
+			[
+				"lin",
+				"adLinesCanvasContext"
+			],
+			[
+				"adLi",
+				"adLinesCanvasContext"
+			],
+			[
+				"hit",
+				"hitAreaCanvasContext"
+			],
+			[
+				"text",
+				"text-align: "
+			],
+			[
+				"marg",
+				"margin-top: "
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"freedom",
+				"freedom-slider"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"margin-t",
+				"margin-bottom"
+			],
+			[
+				"font-fa",
+				"font-family: "
+			],
+			[
+				"di",
+				"disc"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"whi",
+				"white-space"
+			],
+			[
+				"famili",
+				"familiar-other"
+			],
+			[
+				"scientolog",
+				"scientology-news"
+			],
+			[
+				"L",
+				"LandingURL	*url.URL ν"
+			],
+			[
+				"Ha",
+				"HasPrefix	bool ƒ"
+			],
+			[
+				"background-",
+				"background-color"
+			],
+			[
+				"lorem",
+				"lorem	HTML - Lorem Ipsum"
+			],
+			[
+				"Has",
+				"HasPrefix	bool ƒ"
+			],
+			[
+				"anima",
+				"animation-delay: "
+			],
+			[
+				"transition-",
+				"transition-property: "
+			],
+			[
+				"ani",
+				"animation-delay: "
+			],
+			[
+				"sca",
+				"scaleX"
+			],
+			[
+				"Match",
+				"MatchString	bool ƒ"
+			],
+			[
+				"H",
+				"HasPrefix	bool ƒ"
+			],
+			[
+				"Pr",
+				"Print	 ƒ"
+			],
+			[
+				"ca",
+				"catalyst-for-growth-slider"
+			],
+			[
+				"bac",
+				"background-repeat"
+			],
+			[
+				"media",
+				"media-and-ethics"
+			],
+			[
+				"T",
+				"Tooltip	string ν"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"paddin",
+				"padding-top: "
+			],
+			[
+				"backgr",
+				"background-repeat"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"head",
+				"header-height"
+			],
+			[
+				"no-",
+				"no-repeat"
+			],
+			[
+				"n",
+				"no-repeat"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"test",
+				"text-transform: "
+			],
+			[
+				"margi",
+				"margin-bottom: "
+			],
+			[
+				"list-",
+				"list-style-position: "
+			],
+			[
+				"Print",
+				"Println	 ƒ"
+			],
+			[
+				"backgrou",
+				"background-color: "
+			],
+			[
+				"max-",
+				"max-width: "
+			],
+			[
+				"I",
+				"IssueId	string ν"
+			],
+			[
+				"Menu",
+				"MenuItem	struct ʈ"
+			],
+			[
+				"U",
+				"URL	struct ʈ"
+			],
+			[
+				"pi",
+				"pill-mills-issue"
+			],
+			[
+				"P",
+				"Path	string ν"
+			],
+			[
+				"max",
+				"max_2_sum"
+			],
+			[
+				"padding-",
+				"padding-right"
+			],
+			[
+				"Prin",
+				"Println	n int, err error ƒ"
+			],
+			[
+				"bna",
+				"background-color"
+			],
+			[
+				"index",
+				"indextext"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"list-s",
+				"list-style-type"
+			],
+			[
+				"Issue",
+				"IssueHeader"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"block",
+				"inline-block"
+			],
+			[
+				"toggle",
+				"toggleable-children"
+			],
+			[
+				"Cont",
+				"ContentData"
+			],
+			[
+				"fea",
+				"featured"
+			],
+			[
+				"traffi",
+				"human-trafficking"
+			],
+			[
+				"lis",
+				"list-style"
+			],
+			[
+				"t",
+				"text-transform"
+			],
+			[
+				"ab",
+				"ab0000"
+			],
+			[
+				"fig",
+				"figcaption"
+			],
+			[
+				"ta",
+				"table"
+			],
+			[
+				"auto",
+				"autoScaleSliderWidth"
+			],
+			[
+				"B",
+				"BodyClass"
+			],
+			[
+				"Thu",
+				"ThumbnailImage"
+			],
+			[
+				"dep",
+				"deployCtx"
+			],
+			[
+				"padi",
+				"padding-right"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"bloc",
+				"inline-block"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "mergesort.go",
+			"settings":
+			{
+				"buffer_size": 1578,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 347.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Disable Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: 	",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: sas",
+				"Package Control: List Packages"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: li",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"git st",
+				"Git: Show Tags"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 195.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+			"urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) );",
+			"pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path();",
+			"import urllib.request,os;",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read()) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/adanchenkov/Code/algo-stanford"
+	],
+	"file_history":
+	[
+		"/Users/adanchenkov/Code/algo-stanford/algo-stanford.sublime-project",
+		"/Users/adanchenkov/Sites/mailer/app/views/mailer/reading_freedom_mailing.html.erb",
+		"/Users/adanchenkov/Sites/mailer/app/models/mailing.rb",
+		"/Users/adanchenkov/Sites/mailer/db/migrate/20150317230137_load_a_lot_more_users_a.rb",
+		"/Users/adanchenkov/Sites/mailer/app/views/mailer/hbo_mike_rinder_ns.html.erb",
+		"/Users/adanchenkov/.zshrc",
+		"/Users/adanchenkov/Code/libsass/configure.ac",
+		"/Users/adanchenkov/Sites/mailer/db/migrate/20150318220859_create_beghe_mailing.rb",
+		"/Users/adanchenkov/Sites/mailer/app/models/email.rb",
+		"/Users/adanchenkov/Sites/mailer/db/migrate/20150318233003_add_nbc_users.rb",
+		"/Users/adanchenkov/Sites/freedom/compile.sh",
+		"/Users/adanchenkov/Downloads/cc.csv",
+		"/Users/adanchenkov/Sites/mailer/db/migrate/20150302010537_fill_lists.rb",
+		"/Users/adanchenkov/Sites/mailer/db/migrate/20150223214836_add_names_to_emails.rb",
+		"/Users/adanchenkov/Sites/mailer/app/views/mailer/hbo_beghe_mailing.html.erb",
+		"/Users/adanchenkov/Sites/mailer/app/views/mailer/hbo_beghe_mailing.text.erb",
+		"/Users/adanchenkov/Sites/mailer/db/migrate/20150318010138_create_reading_freedom_mailing.rb",
+		"/Users/adanchenkov/Sites/mailer/db/migrate/20150317230139_load_a_lot_more_users_c.rb",
+		"/Users/adanchenkov/Sites/mailer/db/migrate/20150317230138_load_a_lot_more_users_b.rb",
+		"/Users/adanchenkov/Sites/mailer/db/migrate/20150317230140_load_a_lot_more_users_d.rb",
+		"/Users/adanchenkov/Sites/mailer/db/migrate/20150317230141_load_a_lot_more_users_e.rb",
+		"/Users/adanchenkov/Sites/mailer/db/seeds.rb",
+		"/Users/adanchenkov/Sites/mailer/Gemfile",
+		"/Users/adanchenkov/Sites/mailer/db/migrate/20150317230137_load_a_lot_more_users.rb",
+		"/Users/adanchenkov/Sites/mailer/app/views/mailer/hbo_mike_rinder_nspm.html.erb",
+		"/Users/adanchenkov/Sites/mailer/app/models/user.rb",
+		"/Users/adanchenkov/Sites/mailer/app/views/mailer/reading_freedom_mailing.text.erb",
+		"/Users/adanchenkov/Sites/mailer/db/migrate/20150318001218_determine_gender.rb",
+		"/Users/adanchenkov/Sites/mailer/db/migrate/20150318000941_add_gender_to_users.rb",
+		"/Users/adanchenkov/Sites/mailer/db/migrate/20150317230138_create_reading_freedom_mailing.rb",
+		"/Users/adanchenkov/Sites/mailer/app/views/mailer/hbo_mike_rinder_nspm.text.erb",
+		"/Users/adanchenkov/Downloads/CampaignData.csv",
+		"/Users/adanchenkov/Sites/mailer/db/migrate/20150308170650_create_mike_rinder_nspm_mailing.rb",
+		"/Users/adanchenkov/Sites/mailer/mailer.sublime-project",
+		"/Users/adanchenkov/Sites/mailer/db/migrate/20150302183855_fill_test_list.rb",
+		"/Users/adanchenkov/Sites/mailer/db/migrate/20150306233650_create_mike_rinder_ns_mailing.rb",
+		"/Users/adanchenkov/Sites/mailer/config/environments/production.rb",
+		"/Users/adanchenkov/Sites/mailer/config/application.rb",
+		"/Users/adanchenkov/Sites/mailer/app/views/mailer/hbo_mike_rinder_ns.text.erb",
+		"/Users/adanchenkov/Sites/mailer/config/environments/development.rb",
+		"/Users/adanchenkov/Sites/mailer/db/migrate/20150307213861_add_content_media_addresses.rb",
+		"/Volumes/ALEXEI/mailgun_.txt",
+		"/Users/adanchenkov/Sites/mailer/bin/delayed_job",
+		"/Users/adanchenkov/Sites/mailer/log/development.log",
+		"/Volumes/ALEXEI/mailgun.txt",
+		"/Users/adanchenkov/Sites/mailer/db/migrate/20150306233649_create_sara_goldberg_updated_mailing.rb",
+		"/Users/adanchenkov/Desktop/mail.csv",
+		"/Users/adanchenkov/Sites/mailer/tmp/cache/assets/development/sprockets/050fde1c5f35bd7fc268b3c8cba6734c",
+		"/Users/adanchenkov/Sites/mailer/db/migrate/20150306213857_add_even_more_hbo_addresses.rb",
+		"/Users/adanchenkov/Sites/mailer/db/migrate/20150306233648_create_sara_goldberg_mailing.rb",
+		"/Users/adanchenkov/Sites/mailer/app/views/mailer/hbo_sara_goldberg_video.text.erb",
+		"/Users/adanchenkov/Sites/mailer/app/views/mailer/hbo_sara_goldberg_video.html.erb",
+		"/Users/adanchenkov/Sites/mailer/app/views/mailer/hbo_sara_goldberg_video_updated.html.erb",
+		"/Users/adanchenkov/Sites/mailer/app/views/mailer/hbo_sara_goldberg_video_updated.text.erb",
+		"/Users/adanchenkov/Sites/freedom/data/menus.xml",
+		"/Users/adanchenkov/Library/Application Support/Sublime Text 3/Packages/User/HTML (Rails).sublime-settings",
+		"/Users/adanchenkov/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/adanchenkov/Library/Application Support/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
+		"/Users/adanchenkov/Library/Application Support/Sublime Text 3/Packages/User/Ruby.sublime-settings",
+		"/Users/adanchenkov/Sites/mailer/db/migrate/20150306213648_create_jesse_prince_mailing.rb",
+		"/Users/adanchenkov/Sites/mailer/app/views/mailer/hbo_tdv_church_letter.html.erb",
+		"/Users/adanchenkov/Sites/mailer/app/views/mailer/hbo_jesse_prince_video.text.erb",
+		"/Users/adanchenkov/Sites/mailer/app/views/mailer/hbo_jesse_prince_video.html.erb",
+		"/Users/adanchenkov/Sites/mailer/db/migrate/20150306203857_add_some_more_hbo_addresses.rb",
+		"/Users/adanchenkov/Sites/mailer/app/views/mailer/hbo_tdv_jl_attorney_letter.text.erb",
+		"/Users/adanchenkov/Sites/mailer/app/views/mailer/hbo_tdv_church_letter.text.erb",
+		"/Users/adanchenkov/Sites/mailer/db/migrate/20150306052506_create_tdv_mailing_one.rb",
+		"/Users/adanchenkov/Sites/mailer/db/migrate/20150306052512_create_tdv_mailing_two.rb",
+		"/Users/adanchenkov/Sites/mailer/app/views/mailer/hbo_tdv_jl_attorney_letter.html.erb",
+		"/Users/adanchenkov/Sites/mailer/app/assets/stylesheets/application.css",
+		"/Users/adanchenkov/Library/Application Support/Sublime Text 3/Packages/User/highlighter.sublime-settings",
+		"/Users/adanchenkov/Library/Application Support/Sublime Text 3/Packages/Highlighter/highlighter.sublime-settings",
+		"/Users/adanchenkov/Sites/mailer/db/migrate/20150305202748_create_paul_haggis_tw_mailing.rb",
+		"/Users/adanchenkov/Sites/mailer/app/views/mailer/hbo_paul_haggis_tw.html.erb",
+		"/Users/adanchenkov/Sites/mailer/app/views/mailer/hbo_paul_haggis_tw.text.erb",
+		"/Users/adanchenkov/Sites/mailer/app/views/mailer/hbo_tdv_church_letter.html.erb copy",
+		"/Users/adanchenkov/Library/Application Support/Sublime Text 3/Packages/Go Coverage/SublimeGoCoverage.sublime-settings",
+		"/Users/adanchenkov/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/Users/adanchenkov/Library/Application Support/Sublime Text 3/Packages/HexViewer/hex_viewer.sublime-settings",
+		"/Users/adanchenkov/Library/Application Support/Sublime Text 3/Packages/User/JSON.sublime-settings",
+		"/Users/adanchenkov/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/adanchenkov/Sites/freedom/views/hbo/index.html",
+		"/Users/adanchenkov/Desktop/last_message_raw",
+		"/Users/adanchenkov/Sites/mailer/app/views/mailer/hbo_paul_haggis.html.erb",
+		"/Users/adanchenkov/Sites/mailer/db/migrate/20150304183456_create_paul_haggis_mailing.rb",
+		"/Users/adanchenkov/Sites/mailer/app/views/mailer/hbo_paul_haggis.text.erb",
+		"/Users/adanchenkov/Sites/mailer/app/views/mailer/hbo_mike_rinder.html.erb",
+		"/Users/adanchenkov/Sites/mailer/app/views/mailer/hbo_mike_rinder.text.erb",
+		"/Users/adanchenkov/Sites/mailer/app/mailers/mailer.rb",
+		"/Users/adanchenkov/Sites/mailer/app/mailers/mgmailer.rb",
+		"/Users/adanchenkov/Sites/mailer/db/migrate/20150227022134_create_headley42000_mailing.rb",
+		"/Users/adanchenkov/Sites/mailer/db/migrate/20150302183865_create_mike_rinder_mailing.rb",
+		"/Users/adanchenkov/Sites/mailer/db/migrate/20150302010654_populate_nyt_users_for_real.rb",
+		"/Users/adanchenkov/Sites/mailer/db/migrate/20150304170117_remove_more_addresses_from_hbo_list.rb",
+		"/Users/adanchenkov/Sites/freedom/views/hbo/letters/to-sheila-nevins/february-12-ashley-epstein.html",
+		"/Users/adanchenkov/Sites/freedom/src/site_www_freedommag_org3/redirects.go",
+		"/Users/adanchenkov/Sites/mailer/db/migrate/20150402183864_create_paul_haggis_mailing.rb",
+		"/Users/adanchenkov/Sites/mailer/config/routes.rb",
+		"/Users/adanchenkov/Sites/mailer/README.md",
+		"/Users/adanchenkov/Sites/mailer/app/views/users/edit.html.erb",
+		"/Users/adanchenkov/Sites/mailer/app/views/mailer/hbo_gibney_video.html.erb",
+		"/Users/adanchenkov/Sites/mailer/app/models/tracking_record.rb",
+		"/Users/adanchenkov/Sites/mailer/db/migrate/20150302183864_create_paul_haggis_mailing.rb",
+		"/Users/adanchenkov/Sites/mailer/app/models/list.rb",
+		"/Users/adanchenkov/Sites/mailer/db/migrate/20150302010536_create_lists.rb",
+		"/Users/adanchenkov/Sites/mailer/db/migrate/20150302010653_create_paul_haggis_mailing.rb",
+		"/Users/adanchenkov/Sites/mailer/db/migrate/20150302183856_fill_jigsaw_list.rb",
+		"/Users/adanchenkov/Sites/mailer/db/migrate/20150302183860_fill_hbo_list.rb",
+		"/Users/adanchenkov/Sites/mailer/db/migrate/20150302183861_fill_vice_list.rb",
+		"/Users/adanchenkov/Sites/mailer/db/migrate/20150302183862_fill_partners_list.rb",
+		"/Users/adanchenkov/Sites/mailer/db/migrate/20150302183862_fill_nytimes_list.rb",
+		"/Users/adanchenkov/Sites/mailer/db/migrate/20150302183863_fill_partners_list.rb",
+		"/Users/adanchenkov/Sites/mailer/db/migrate/20150302183859_fill_jigsaw_list.rb",
+		"/Users/adanchenkov/Sites/mailer/db/migrate/20150302183857_add_gibney_to_jigsaw_list.rb",
+		"/Users/adanchenkov/Sites/mailer/db/migrate/20150302183858_fill_test_list.rb",
+		"/Users/adanchenkov/Sites/mailer/db/migrate/20150220033523_populate_users.rb",
+		"/Users/adanchenkov/Sites/mailer/db/email-iids.txt",
+		"/Users/adanchenkov/Sites/mailer/db/migrate/20150227233255_populate_nyt_users_for_real.rb",
+		"/Users/adanchenkov/Sites/mailer/db/migrate/20150227233256_remove_more_addresses_from_emails.rb",
+		"/Users/adanchenkov/Sites/mailer/app/views/regular_mailer/hbo_headley_42000.text.erb",
+		"/Users/adanchenkov/Sites/mailer/app/views/regular_mailer/hbo_headley_42000.html.erb",
+		"/Users/adanchenkov/Sites/mailer/public/robots.txt",
+		"/Users/adanchenkov/Sites/mailer/app/views/regular_mailer/hbo_headley_biglie.html.erb",
+		"/Users/adanchenkov/Sites/mailer/app/views/regular_mailer/hbo_headley_biglie.text.erb",
+		"/Users/adanchenkov/Sites/mailer/db/migrate/20150225233155_populate_nyt_users.rb",
+		"/Users/adanchenkov/Sites/mailer/db/migrate/20150225223858_create_headley_big_lie_mailing.rb",
+		"/Users/adanchenkov/Sites/mailer/app/views/regular_mailer/hbo_headley_rw.text.erb",
+		"/Users/adanchenkov/Sites/mailer/app/mailers/regular_mailer.rb"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 111.0,
+		"where_history":
+		[
+			"/Users/adanchenkov/Sites/mailer,-*/web/english/*,-*/web/data/*,-*/bin/*,-*/index/*,-*/sample/*,-*/corrections/*,-*/theme/css/*,-*/theme/js/*,-*/images/*,-*/src/*,-*/.sass-cache/*cla",
+			"/Users/adanchenkov/Sites/freedom,-*/web/english/*,-*/web/data/*,-*/bin/*,-*/index/*,-*/sample/*,-*/corrections/*,-*/theme/css/*,-*/theme/js/*,-*/images/*,-*/src/*,-*/.sass-cache/*cla",
+			"/Users/adanchenkov/Sites/freedom/includes,-*/web/english/*,-*/web/data/*,-*/bin/*,-*/index/*,-*/sample/*,-*/corrections/*,-*/theme/css/*,-*/theme/js/*,-*/images/*,-*/src/*,-*/.sass-cache/*cla",
+			"/Users/adanchenkov/Sites/freedom/views,-*/web/english/*,-*/web/data/*,-*/bin/*,-*/index/*,-*/sample/*,-*/corrections/*,-*/theme/css/*,-*/theme/js/*,-*/images/*,-*/src/*,-*/.sass-cache/*cla",
+			"/Users/adanchenkov/Sites/freedom/web/sass,-*/web/english/*,-*/web/data/*,-*/bin/*,-*/index/*,-*/sample/*,-*/corrections/*,-*/theme/css/*,-*/theme/js/*,-*/images/*,-*/src/*,-*/.sass-cache/*cla",
+			"/Users/adanchenkov/Sites/freedom/views,-*/web/english/*,-*/web/data/*,-*/bin/*,-*/index/*,-*/sample/*,-*/corrections/*,-*/theme/css/*,-*/theme/js/*,-*/images/*,-*/src/*,-*/.sass-cache/*cla",
+			"/Users/adanchenkov/Sites/freedom/web/sass,-*/web/english/*,-*/web/data/*,-*/bin/*,-*/index/*,-*/sample/*,-*/corrections/*,-*/theme/css/*,-*/theme/js/*,-*/images/*,-*/src/*,-*/.sass-cache/*cla",
+			"/Users/adanchenkov/Sites/freedom,-*/web/english/*,-*/web/data/*,-*/bin/*,-*/index/*,-*/sample/*,-*/corrections/*,-*/theme/css/*,-*/theme/js/*,-*/images/*,-*/src/*,-*/.sass-cache/*cla",
+			"/Users/adanchenkov/Sites/freedom,-*/bin/*,-*/index/*,-*/sample/*,-*/corrections/*,-*/theme/css/*,-*/theme/js/*,-*/images/*,-*/src/*,-*/.sass-cache/*cla",
+			"/Users/adanchenkov/Sites/freedom/views,-*/bin/*,-*/index/*,-*/sample/*,-*/corrections/*,-*/theme/css/*,-*/theme/js/*,-*/images/*,-*/src/*,-*/.sass-cache/*cla",
+			"/Users/adanchenkov/Sites/freedom/views/florida,-*/bin/*,-*/index/*,-*/sample/*,-*/corrections/*,-*/theme/css/*,-*/theme/js/*,-*/images/*,-*/src/*,-*/.sass-cache/*cla",
+			"/Users/adanchenkov/Sites/freedom/views/issue,-*/bin/*,-*/index/*,-*/sample/*,-*/corrections/*,-*/theme/css/*,-*/theme/js/*,-*/images/*,-*/src/*,-*/.sass-cache/*cla",
+			"/Users/adanchenkov/Sites/freedom/views,-*/bin/*,-*/index/*,-*/sample/*,-*/corrections/*,-*/theme/css/*,-*/theme/js/*,-*/images/*,-*/src/*,-*/.sass-cache/*cla",
+			"/Users/adanchenkov/Sites/freedom/views/florida,-*/bin/*,-*/index/*,-*/sample/*,-*/corrections/*,-*/theme/css/*,-*/theme/js/*,-*/images/*,-*/src/*,-*/.sass-cache/*cla",
+			"/Users/adanchenkov/Sites/freedom/views/issue,-*/bin/*,-*/index/*,-*/sample/*,-*/corrections/*,-*/theme/css/*,-*/theme/js/*,-*/images/*,-*/src/*,-*/.sass-cache/*cla",
+			"/Users/adanchenkov/Sites/freedom,-*/bin/*,-*/index/*,-*/sample/*,-*/corrections/*,-*/theme/css/*,-*/theme/js/*,-*/images/*,-*/src/*,-*/.sass-cache/*cla",
+			"/Users/adanchenkov/Sites/freedom/views/issue/201501-religion,-*/bin/*,-*/index/*,-*/sample/*,-*/corrections/*,-*/theme/css/*,-*/theme/js/*,-*/images/*,-*/src/*,-*/.sass-cache/*cla",
+			"/Users/adanchenkov/Sites/freedom,-*/bin/*,-*/index/*,-*/sample/*,-*/corrections/*,-*/theme/css/*,-*/theme/js/*,-*/images/*,-*/src/*,-*/.sass-cache/*cla",
+			"/Users/adanchenkov/Sites/freedom,-*/bin/*,-*/index/*,-*/sample/*,-*/corrections/*,-*/theme/css/*,-*/theme/js/*,-*/images/*,-*/src/*,-*/.sass-cache/*",
+			"/Users/adanchenkov/Sites/freedom/views,-*/bin/*,-*/index/*,-*/sample/*,-*/corrections/*,-*/theme/css/*,-*/theme/js/*,-*/images/*,-*/src/*,-*/.sass-cache/*",
+			"/Users/adanchenkov/Sites/freedom/web/sass,-*/bin/*,-*/index/*,-*/sample/*,-*/corrections/*,-*/theme/css/*,-*/theme/js/*,-*/images/*,-*/src/*,-*/.sass-cache/*",
+			"/Users/adanchenkov/Sites/freedom/web,-*/bin/*,-*/index/*,-*/sample/*,-*/corrections/*,-*/theme/css/*,-*/theme/js/*,-*/images/*,-*/src/*,-*/.sass-cache/*",
+			"/Users/adanchenkov/Sites/freedom/views,-*/bin/*,-*/index/*,-*/sample/*,-*/corrections/*,-*/theme/css/*,-*/theme/js/*,-*/images/*,-*/src/*,-*/.sass-cache/*",
+			"/Users/adanchenkov/Sites/freedom/,-*/bin/*,-*/index/*,-*/sample/*,-*/corrections/*,-*/theme/css/*,-*/theme/js/*,-*/images/*,-*/src/*,-*/.sass-cache/*",
+			"/Users/adanchenkov/Sites/freedom/views,-*/bin/*,-*/index/*,-*/sample/*,-*/corrections/*,-*/theme/css/*,-*/theme/js/*,-*/images/*,-*/src/*,-*/.sass-cache/*",
+			"/Users/adanchenkov/Sites/freedom/web/english,-*/bin/*,-*/index/*,-*/sample/*,-*/corrections/*,-*/theme/css/*,-*/theme/js/*,-*/images/*,-*/src/*,-*/.sass-cache/*",
+			"/Users/adanchenkov/Sites/freedom/views,-*/bin/*,-*/index/*,-*/sample/*,-*/corrections/*,-*/theme/css/*,-*/theme/js/*,-*/images/*,-*/src/*,-*/.sass-cache/*",
+			"/Users/adanchenkov/Sites/freedom/views/emails,-*/bin/*,-*/index/*,-*/sample/*,-*/corrections/*,-*/theme/css/*,-*/theme/js/*,-*/images/*,-*/src/*,-*/.sass-cache/*",
+			"/Users/adanchenkov/Sites/freedom/web/sass,-*/bin/*,-*/index/*,-*/sample/*,-*/corrections/*,-*/theme/css/*,-*/theme/js/*,-*/images/*,-*/src/*,-*/.sass-cache/*",
+			"/Users/adanchenkov/Sites/freedom/,-*/bin/*,-*/index/*,-*/sample/*,-*/corrections/*,-*/theme/css/*,-*/theme/js/*,-*/images/*,-*/src/*,-*/.sass-cache/*",
+			"/Users/adanchenkov/Sites/freedom/web/english,-*/bin/*,-*/index/*,-*/sample/*,-*/corrections/*,-*/theme/css/*,-*/theme/js/*,-*/images/*,-*/src/*,-*/.sass-cache/*",
+			"/Users/adanchenkov/Sites/freedom/,-*/bin/*,-*/index/*,-*/sample/*,-*/corrections/*,-*/theme/css/*,-*/theme/js/*,-*/images/*,-*/src/*,-*/.sass-cache/*",
+			"/Users/adanchenkov/Sites/freedom/web/,-*/bin/*,-*/index/*,-*/sample/*,-*/corrections/*,-*/theme/css/*,-*/theme/js/*,-*/images/*,-*/src/*,-*/.sass-cache/*",
+			"/Users/adanchenkov/Sites/freedom/,-*/bin/*,-*/index/*,-*/sample/*,-*/corrections/*,-*/theme/css/*,-*/theme/js/*,-*/images/*,-*/src/*,-*/.sass-cache/*",
+			"/Users/adanchenkov/Sites/freedom/,-*/bin/*,-*/index/*,-*/sample/*,-*/corrections/*,-*/theme/css/*,-*/theme/js/*,-*/images/*, -*/.sass-cache/*",
+			"/Users/adanchenkov/Sites/freedom/web/english/,-*/bin/*,-*/index/*,-*/sample/*,-*/corrections/*,-*/theme/css/*,-*/theme/js/*,-*/images/*, -*/.sass-cache/*",
+			"/Users/adanchenkov/Sites/freedom/,-*/bin/*,-*/index/*,-*/sample/*,-*/corrections/*,-*/theme/css/*,-*/theme/js/*,-*/images/*, -*/.sass-cache/*",
+			"/Users/adanchenkov/Sites/freedom/,-*/bin/*,-*/index/*,-*corrections/data-images/*,-*/theme/css/*,-*/theme/js/*,-*/images/*, -*/.sass-cache/*",
+			"/Users/adanchenkov/Sites/freedom/,-*/bin/*,-*/index/*,-*/theme/css/*,-*/theme/js/*,-*/images/*, -*/.sass-cache/*",
+			"/Users/adanchenkov/Sites/freedom/web/english/,-*/bin/*,-*/index/*,-*/theme/css/*,-*/theme/js/*,-*/images/*, -*/.sass-cache/*",
+			"/Users/adanchenkov/Sites/freedom/web/english/canada,-*/bin/*,-*/index/*,-*/theme/css/*,-*/theme/js/*,-*/images/*, -*/.sass-cache/*",
+			"/Users/adanchenkov/Sites/freedom/web/english/,-*/bin/*,-*/index/*,-*/theme/css/*,-*/theme/js/*,-*/images/*, -*/.sass-cache/*",
+			"/Users/adanchenkov/Sites/freedom/web/english/irish,-*/bin/*,-*/index/*,-*/theme/css/*,-*/theme/js/*,-*/images/*, -*/.sass-cache/*",
+			"/Users/adanchenkov/Sites/freedom/web/english/,-*/bin/*,-*/index/*,-*/theme/css/*,-*/theme/js/*,-*/images/*, -*/.sass-cache/*",
+			"/Users/adanchenkov/Sites/freedom/web/english/irish,-*/bin/*,-*/index/*,-*/theme/css/*,-*/theme/js/*,-*/images/*, -*/.sass-cache/*",
+			"/Users/adanchenkov/Sites/freedom/web/english/canada,-*/bin/*,-*/index/*,-*/theme/css/*,-*/theme/js/*,-*/images/*, -*/.sass-cache/*",
+			"/Users/adanchenkov/Sites/freedom/web/english,-*/bin/*,-*/index/*,-*/theme/css/*,-*/theme/js/*,-*/images/*, -*/.sass-cache/*",
+			"/Users/adanchenkov/Sites/freedom/,-*/bin/*,-*/index/*,-*/theme/css/*,-*/theme/js/*,-*/images/*, -*/.sass-cache/*",
+			"/Users/adanchenkov/Sites/freedom/views,-*/bin/*,-*/index/*,-*/theme/css/*,-*/theme/js/*,-*/images/*, -*/.sass-cache/*",
+			"/Users/adanchenkov/Sites/freedom/web/english,-*/bin/*,-*/index/*,-*/theme/css/*,-*/theme/js/*,-*/images/*, -*/.sass-cache/*",
+			"/Users/adanchenkov/Sites/freedom/views,-*/bin/*,-*/index/*,-*/theme/css/*,-*/theme/js/*,-*/images/*, -*/.sass-cache/*",
+			"/Users/adanchenkov/Sites/freedom/web/english,-*/bin/*,-*/index/*,-*/theme/css/*,-*/theme/js/*,-*/images/*, -*/.sass-cache/*",
+			"/Users/adanchenkov/Sites/freedom/,-*/bin/*,-*/index/*,-*/theme/css/*,-*/theme/js/*,-*/images/*, -*/.sass-cache/*",
+			"/Users/adanchenkov/Sites/freedom/views/florida,-*/bin/*,-*/index/*,-*/theme/css/*,-*/theme/js/*,-*/images/*, -*/.sass-cache/*",
+			"/Users/adanchenkov/Sites/freedom/views/issue,-*/bin/*,-*/index/*,-*/theme/css/*,-*/theme/js/*,-*/images/*, -*/.sass-cache/*",
+			"/Users/adanchenkov/Sites/freedom/,-*/bin/*,-*/index/*,-*/theme/css/*,-*/theme/js/*,-*/images/*, -*/.sass-cache/*",
+			"/Users/adanchenkov/Sites/freedom/views/hbo/,-*/bin/*,-*/index/*,-*/theme/css/*,-*/theme/js/*,-*/images/*, -*/.sass-cache/*",
+			"/Users/adanchenkov/Sites/freedom/hbo/,-*/bin/*,-*/index/*,-*/theme/css/*,-*/theme/js/*,-*/images/*, -*/.sass-cache/*",
+			"/Users/adanchenkov/Sites/freedom/views/hbo/,-*/bin/*,-*/index/*,-*/theme/css/*,-*/theme/js/*,-*/images/*, -*/.sass-cache/*",
+			"/Users/adanchenkov/Sites/freedom/hbo,-*/bin/*,-*/index/*,-*/theme/css/*,-*/theme/js/*,-*/images/*, -*/.sass-cache/*",
+			"/Users/adanchenkov/Sites/freedom/,-*/bin/*,-*/index/*,-*/theme/css/*,-*/theme/js/*,-*/images/*, -*/.sass-cache/*",
+			"/Users/adanchenkov/Sites/freedom/views/hbo/,-*/bin/*,-*/index/*,-*/theme/css/*,-*/theme/js/*,-*/images/*, -*/.sass-cache/*",
+			"/Users/adanchenkov/Sites/freedom/views/hbo/white-papers,-*/bin/*,-*/index/*,-*/theme/css/*,-*/theme/js/*,-*/images/*, -*/.sass-cache/*",
+			"/Users/adanchenkov/Sites/freedom/views/hbo/sheila-nevins,-*/bin/*,-*/index/*,-*/theme/css/*,-*/theme/js/*,-*/images/*, -*/.sass-cache/*",
+			"/Users/adanchenkov/Sites/freedom/web/english,-*/bin/*,-*/index/*,-*/theme/css/*,-*/theme/js/*,-*/images/*, -*/.sass-cache/*",
+			"/Users/adanchenkov/Sites/freedom,-*/bin/*,-*/index/*,-*/theme/css/*,-*/theme/js/*,-*/images/*, -*/.sass-cache/*",
+			"/Users/adanchenkov/Sites/freedom/web/english,-*/bin/*,-*/index/*,-*/theme/css/*,-*/theme/js/*,-*/images/*, -*/.sass-cache/*",
+			"/Users/adanchenkov/Sites/freedom,-*/bin/*,-*/index/*,-*/theme/css/*,-*/theme/js/*,-*/images/*, -*/.sass-cache/*",
+			"/Users/adanchenkov/Sites/freedom/web/english,-*/bin/*,-*/index/*,-*/theme/css/*,-*/theme/js/*,-*/images/*, -*/.sass-cache/*",
+			"/Users/adanchenkov/Sites/freedom/english/,-*/bin/*,-*/index/*,-*/theme/css/*,-*/theme/js/*,-*/images/*, -*/.sass-cache/*",
+			"/Users/adanchenkov/Sites/freedom/web/english,-*/bin/*,-*/index/*,-*/theme/css/*,-*/theme/js/*,-*/images/*, -*/.sass-cache/*",
+			"/Users/adanchenkov/Sites/freedom/english/,-*/bin/*,-*/index/*,-*/theme/css/*,-*/theme/js/*,-*/images/*, -*/.sass-cache/*",
+			"/Users/adanchenkov/Sites/freedom/english,-*/bin/*,-*/index/*,-*/theme/css/*,-*/theme/js/*,-*/images/*, -*/.sass-cache/*",
+			"/Users/adanchenkov/Sites/freedom/,-*/bin/*,-*/index/*,-*/theme/css/*,-*/theme/js/*,-*/images/*, -*/.sass-cache/*",
+			"",
+			"/Users/adanchenkov/Sites/freedom/,-*/bin/*,-*/index/*,-*/theme/css/*,-*/theme/js/*,-*/images/*, -*/.sass-cache/*",
+			"/Users/adanchenkov/Sites/freedom/web/english,-*/bin/*,-*/index/*,-*/theme/css/*,-*/theme/js/*,-*/images/*, -*/.sass-cache/*",
+			"/Users/adanchenkov/Sites/freedom/,-*/bin/*,-*/index/*,-*/theme/css/*,-*/theme/js/*,-*/images/*, -*/.sass-cache/*",
+			"/Users/adanchenkov/Sites/freedom/,-*/bin/*,-*/index/*,-*/theme/css/*,-*/theme/js/*,-*/images/*",
+			"/Users/danchenkov/Sites/freedom/,-*/bin/*,-*/index/*,-*/theme/css/*,-*/theme/js/*,-*/images/*",
+			"/Users/danchenkov/Sites/freedom/,-*/theme/css/*,-*/theme/js/*,-*/images/*",
+			"/Users/danchenkov/Sites/freedom/,-*.sassc,-*.scssc,-*/bin/*,-*/index/*,-*/theme/css/*,-*/theme/js/*,-*/images/*",
+			"/Users/danchenkov/Sites/freedom/,-*/bin/*,-*/index/*,-*/theme/css/*,-*/theme/js/*,-*/images/*",
+			"/Users/danchenkov/Sites/freedom/,-*.sassc,-*.scssc,-*/bin/*,-*/index/*,-*/theme/css/*,-*/theme/js/*,-*/images/*",
+			"/Users/danchenkov/Sites/freedom/",
+			"/Users/danchenkov/Sites/freedom/,-*.sassc,-*.scssc,-*/bin/*,-*/index/*,-*/theme/css/*,-*/theme/js/*,-*/images/*",
+			"/Users/danchenkov/Sites/freedom/,-*.sassc,-*.scssc,-*/bin/*,-*/index/*,-*/theme/css/*,-*/theme/js/*",
+			"/Users/danchenkov/Sites/freedom/,-*.sassc,-*.scssc,-*/bin/*,-*/index/*,-*/theme/css/*,-*/theme/js/*,-*/images/*",
+			"/Users/danchenkov/Sites/freedom/,-*.sassc,-*.scssc,-*/bin/*,-*/index/*",
+			"/Users/danchenkov/Sites/freedom/,-*.sassc,-*.scssc,-/bin/,-/index/",
+			"/Users/danchenkov/Sites/freedom/",
+			"/Users/danchenkov/Sites/freedom/web/.sass-cache",
+			"~/Sites/freedom",
+			"<open files>",
+			"~/Sites/freedom",
+			"<open folders>",
+			"<open folders>,<open folders>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"meredith.ahr@nbcuni.com",
+			"hbo_mike_rinder_ns",
+			"@hbo.com",
+			"lmclendon@usnews.com",
+			"hdudar@theblade.com",
+			"[^\\x00-\\x7f]",
+			"class",
+			"^[^>]+>",
+			"</a></span></li><li><span class=\"lkf\"><a href=\"/girlnames/",
+			"</a></span></li><li><span class=\"lkm\"><a href=\"/girlnames/",
+			"^[^>]+>",
+			"</a></span></li><li><span class=\"lkm\"><a href=\"/boynames/",
+			"^([^,\\n]+\\S),\\s*([^,\\n]+\\S),\\s*([^,\\n]+\\S),\\s*([^,\\n]+\\S)",
+			"hbo_mike_rinder_nspm",
+			"[^\\x00-\\x7f]",
+			"c=19",
+			"hbo_mike_rinder_ns",
+			"c=18",
+			"hbo_sara_goldberg_video_updated",
+			" ,",
+			" ",
+			".",
+			"@contentmediacorp.com",
+			"@contentmediacorpo.com",
+			"c=17",
+			"jesse_prince",
+			"c=15",
+			"c=14",
+			"&c=13",
+			"hbo_tdv_church_letter",
+			"hbo_paul_haggis_tw",
+			"[“”]",
+			"c=12",
+			"hbo_paul_haggis",
+			"'",
+			"c=11",
+			"hbo_paul_haggis",
+			"inlcudes",
+			"caa.com",
+			"polarisventures",
+			"nbcuni",
+			"iac",
+			"allen",
+			"alle",
+			"all",
+			"jigsaw_list",
+			"\\s+",
+			"; test_list.emails << email unless email.nil?",
+			"email = Email.find_by_address(",
+			".each { |email| test_list.emails << email}",
+			"Email.where(address: ",
+			").find_each",
+			").find_each {",
+			"christophercaldwell@earthlink.net",
+			"bittman@markbittman.com",
+			", list: :nytimes},",
+			"vice_list",
+			"test",
+			"\"},",
+			"nytimescom",
+			"asst.gibney@jigsawprods.com",
+			"xname",
+			"lname",
+			"fname",
+			"{",
+			"\\{fname\": iid: \" \"(\\w+)\",\", lname: \"(\\w+)\", email: \"([^\"]+)\", iid: \"([^\"]+)\",",
+			"{fname\": iid: \" \"(\\s+)\",\", lname: \"(\\s+)\", email: \"([^\"]+)\", iid: \"([^\"]+)\",",
+			"\". iid: \"(\\w{3})\",,([\\w\\d]{13})",
+			"c=9",
+			"appliedsilli",
+			"c=7",
+			"email: \"[\\w\\@\\.']+\", (?:skip: true, )?(?:test: true, )?fname: \"[\\s\\w\\-\\.]+\", lname: \"[\\w\\-\\.\\'\\s]+\"",
+			"email: \"[\\w\\@\\.]+\", (?:skip: true, )?(?:test: true, )?fname: \"[\\s\\w\\-\\.]+\", lname: \"[\\w\\-\\.\\'\\s]+\"",
+			"email: \"[\\w@\\.\\-]+\", (?:skip: true, )?(?:test: true, )?fname: \"[\\s\\w\\-]+\", lname: \"[\\w\\-\\.'\\s]+\"",
+			"email: \"[\\w@\\.]+\", (?:test: true, )?fname: \"\\w+\", lname: \"\\w+\"",
+			", icoid: (?:nil|\"[\\da-f]+\"), iid: \"[\\da-f]+\"",
+			"c=2",
+			"c=7",
+			"c=5",
+			"this",
+			"mailing",
+			"Weiss",
+			"Jill Weiss",
+			"e9b",
+			"elf",
+			"Sheila",
+			"hbo_spanky_luis",
+			"c=4",
+			"font-family: CenturyGothic, 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif",
+			"c=4",
+			"TrackingRecord(email: e, mailing: m).first.update_attributes(mailed: nil)",
+			"e.update_attributes(skip: true) if e",
+			"Xu",
+			"vfI54h4Jhdk",
+			"fdm.dev1.firechrome.org",
+			"c=3",
+			"c=4",
+			"..upd",
+			"michael.w",
+			"54c9356dee8f8",
+			"54c93563468b1",
+			"54c935591e7c2",
+			"skip",
+			"@user.iid",
+			"test: nil, ",
+			"test: true, ",
+			"login: nil, ",
+			"skip: nil, ",
+			"emails_mailings",
+			"429d6b4",
+			"d6b4",
+			"mailgun_settings",
+			"c=3",
+			"@user.iid or @user.icoid",
+			"icoid: \"([\\w\\d])+\", ",
+			"ieid",
+			"54c0088405549",
+			"54c008856e73e",
+			"54c008854fc20",
+			"iid: : \"",
+			"Jeffrey",
+			"people know",
+			"&c=4",
+			".ieid",
+			"mailings",
+			"\"",
+			"54c00884c1292",
+			", "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"\\n",
+			"",
+			"\\n",
+			"      { lname: \"\\1\", fname: \"\\2\", email: \"\\3\", iid: \"\\4\" },",
+			"      { lname: \\1, fname: \\2, email: \\3, iid: \\4 },",
+			", ",
+			" ,",
+			" ",
+			"",
+			"c=16",
+			"\"",
+			"c=13",
+			"’",
+			"includes",
+			" ",
+			"",
+			"test_list.emails << Email.find_by_address(",
+			").each",
+			").each {",
+			"},",
+			"\", list: :nytimes},",
+			"nytimes.com",
+			"lname",
+			"fname",
+			"xname",
+			"{fname: \"\\1\", lname: \"\\2\", email: \"\\3\", iid: \"\\4\",",
+			"\\1\", iid: \"\\2\",",
+			"c=10",
+			"email: \"\", fname: \"\", lname: \"\"",
+			"",
+			"c=8",
+			"c=2",
+			"c=7",
+			"c=6",
+			"c=5",
+			"font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif",
+			"c=5",
+			"TrackingRecord.where(email: e, mailing: m).first.update_attributes(mailed: nil)",
+			"7gHohRrWOsg",
+			"freedommag.org",
+			"c=4",
+			"c=3",
+			".upd",
+			"",
+			"c=4",
+			"@user.iid",
+			"",
+			"icoid",
+			"iid: \"",
+			"&c=3",
+			".iid",
+			"'",
+			"",
+			",",
+			"Org.",
+			"Orig.",
+			",",
+			"User",
+			"User.",
+			"user = User.create({ ieid: \"\\1\", fname: \"\\2\", lname: \"\\3\", email: \"\\4\" })",
+			"\\n",
+			"",
+			".mail",
+			"user.ieid",
+			"\", fname: \"",
+			"\\1\", lname: \"\\2\"",
+			"\\1\", \"\\2\"",
+			"\\1\", \"\\2",
+			"\", email: \"",
+			"\\1\", \"\\2\", ",
+			"user = User.create({ ieid: \"\\1\", ",
+			"\\1%%%",
+			"\\1##",
+			"\\1;",
+			"",
+			",",
+			"user.save",
+			", email: \"",
+			"\\1,1*1*1,",
+			"email.save",
+			"user.save",
+			"",
+			"Email.create({ address: \"",
+			"\\2",
+			"!LINK! \\2",
+			"\\2",
+			"1: \\1\\n",
+			"1: \\1\\n2: \\2",
+			"\\1\\n",
+			"\\2\\n",
+			"/hbo\\2\\n",
+			"\\2\\n",
+			"BEGINNING \\2 END",
+			"/hbo\\1\\n",
+			"/hbo/\\1\\n",
+			"/hbo",
+			".html\n",
+			"Karen de la Carriere",
+			"hana-whitfield",
+			";\">{{.Title}}",
+			"<!--<div style=\"display: inline; font-size: 0.96em;\">Posted \\1</div>-->",
+			"<div style=\"display: inline; font-size: 0.96em;\">Posted \\1</div>",
+			"<div style=\"display: inline; font-size: 0.96em;\">\\1</div>",
+			"<!--<div class=\"blog-posted-date\">\\1</div>-->",
+			"<!--<div class=\"blog-posted-date\">[^<]+</div>-->",
+			"letter-to-s-nevins-16-feb-2015.html",
+			"February 16, 2015",
+			"Letter to Sheila Nevins, President, HBO Documentary Films,",
+			"<div class=\"item\">",
+			"starstruck",
+			"",
+			"&hellip;”<",
+			"",
+			"Posted 14 February 2015</div>\n          <p style=\"font-size: 1.15em; line-height: 1.25em; margin-bottom: 0.1em;\"><strong>Gibney",
+			"Posted 15 February 2015</div>\n          <p style=\"font-size: 1.15em; line-height: 1.25em; margin-bottom: 0.1em;\"><strong>Sara Goldberg",
+			"<h4 class=\"cat-title\" style=\"display: inline; padding-right: 0.3em;\">Letter</h4>",
+			"<h4 class=\"cat-title\" style=\"display: inline; padding-right: 1.75em;\">Letter</h4>",
+			"<h4 class=\"cat-title\" style=\"display: inline; padding-right: 1em;\">Letter</h4>",
+			"<h4 class=\"cat-title\" style=\"display: inline;\">Letter</h4>",
+			"<div style=\"display: inline; font-size: 0.96em;\">Posted",
+			"",
+			";\">{{raw .Title}}",
+			"",
+			"<div><p style=\"margin-bottom: 0;\">{{.Title}}:</p>",
+			"",
+			"margin-right: 12px; margin-bottom: 8px;",
+			"exterminating-gibneys-propaganda.html"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "mergesort.go",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1578,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								50,
+								50
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 677.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.MarGo-output":
+	{
+		"height": 142.0
+	},
+	"output.find_results":
+	{
+		"height": 154.0
+	},
+	"pinned_build_system": "",
+	"project": "algo-stanford.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"seed",
+				"db/seeds.rb"
+			],
+			[
+				"gmefi",
+				"Gemfile"
+			],
+			[
+				"email",
+				"app/models/email.rb"
+			],
+			[
+				"u",
+				"app/models/user.rb"
+			],
+			[
+				"user",
+				"app/models/user.rb"
+			],
+			[
+				"d",
+				"config/environments/development.rb"
+			],
+			[
+				"delo",
+				"config/environments/development.rb"
+			],
+			[
+				"produ",
+				"config/environments/production.rb"
+			],
+			[
+				"develop",
+				"config/environments/development.rb"
+			],
+			[
+				"producto",
+				"config/environments/production.rb"
+			],
+			[
+				"pro",
+				"config/environments/production.rb"
+			],
+			[
+				"configappli",
+				"config/application.rb"
+			],
+			[
+				"mailer",
+				"app/mailers/mailer.rb"
+			],
+			[
+				"devl",
+				"config/environments/development.rb"
+			],
+			[
+				"prod",
+				"config/environments/production.rb"
+			],
+			[
+				"devel",
+				"config/environments/development.rb"
+			],
+			[
+				"production",
+				"config/environments/production.rb"
+			],
+			[
+				"deve",
+				"config/environments/development.rb"
+			],
+			[
+				"product",
+				"config/environments/production.rb"
+			],
+			[
+				"gemfi",
+				"Gemfile"
+			],
+			[
+				"gemf",
+				"Gemfile"
+			],
+			[
+				"pod",
+				"config/environments/production.rb"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"use",
+				"app/models/user.rb"
+			],
+			[
+				"user.",
+				"app/models/user.rb"
+			],
+			[
+				"sche",
+				"db/schema.rb"
+			],
+			[
+				"usermailer",
+				"app/mailers/user_mailer.rb"
+			],
+			[
+				"usermail",
+				"app/mailers/user_mailer.rb"
+			],
+			[
+				"email.",
+				"app/models/email.rb"
+			],
+			[
+				"route",
+				"config/routes.rb"
+			],
+			[
+				"new",
+				"config/newrelic.yml"
+			],
+			[
+				"rout",
+				"config/routes.rb"
+			],
+			[
+				"index",
+				"views/hbo/index.html"
+			],
+			[
+				"e",
+				"corrections/email.csv"
+			],
+			[
+				"inde",
+				"includes/hbo/index-posts.html"
+			],
+			[
+				"updates",
+				"views/hbo/updates.html"
+			],
+			[
+				"sheila",
+				"views/hbo/family-letters/sara-goldberg/ashley-epstein-to-sheila-nevins.html"
+			],
+			[
+				"family-letters",
+				"views/hbo/family-letters/index.html"
+			],
+			[
+				"mike-",
+				"views/hbo/white-papers/mike-rinder.html"
+			],
+			[
+				"exter",
+				"views/hbo/videos/exterminating-gibneys-propaganda.html"
+			],
+			[
+				"menus",
+				"data/menus.xml"
+			],
+			[
+				"hbocss",
+				"web/theme/css/hbo4.css"
+			],
+			[
+				"me",
+				"data/menus.xml"
+			],
+			[
+				"hbo.css",
+				"web/theme/css/hbo.css"
+			],
+			[
+				"includecontro",
+				"includes/_controls.html"
+			],
+			[
+				"sources",
+				"includes/_sources_menu3.html"
+			],
+			[
+				"hbo-left",
+				"includes/hbo-left.html"
+			],
+			[
+				"neat-page",
+				"includes/neat-page-hbo.html"
+			],
+			[
+				"spanky",
+				"views/hbo/videos/spanky-taylor.html"
+			],
+			[
+				"pleple",
+				"views/hbo/family-letters/sara-goldberg/ashley-epstein-to-richard-plepler.html"
+			],
+			[
+				"menu",
+				"data/menus.xml"
+			],
+			[
+				"norm",
+				"views/hbo/family-letters/spanky-taylor/norman-taylor-to-sheila-nevins.html"
+			],
+			[
+				"post",
+				"includes/hbo/index-posts.html"
+			],
+			[
+				"marc-h",
+				"views/hbo/white-papers/marc-claire-headleys.html"
+			],
+			[
+				"tomde",
+				"views/hbo/white-papers/tom-devocht.html"
+			],
+			[
+				"s-nevins",
+				"views/hbo/sheila-nevins/letter-to-s-nevins-12-feb-2015.html"
+			],
+			[
+				"indexpost",
+				"includes/hbo/index-posts.html"
+			],
+			[
+				"hboindex",
+				"web/sass/special/_hbo-index.sass"
+			],
+			[
+				"neat-pae",
+				"includes/neat-page-hbo.html"
+			],
+			[
+				"letter-to-s",
+				"views/hbo/sheila-nevins/letter-to-s-nevins-17-feb-2015.html"
+			],
+			[
+				"readt",
+				"includes/hbo/read-the-truth-menu.html"
+			],
+			[
+				"epste",
+				"views/hbo/family-letters/sara-goldberg/gary-epstein-to-sheila-nevins.html"
+			],
+			[
+				"plep",
+				"views/hbo/family-letters/sara-goldberg/ashley-epstein-to-richard-plepler.html"
+			],
+			[
+				"gary",
+				"views/hbo/family-letters/sara-goldberg/gary-epstein-to-sheila-nevins.html"
+			],
+			[
+				"gale",
+				"views/hbo/family-letters/sara-goldberg/gale-lister-to-sheila-nevins.html"
+			],
+			[
+				"plepl",
+				"views/hbo/family-letters/sara-goldberg/ashley-epstein-to-richard-plepler.html"
+			],
+			[
+				"ashley",
+				"views/hbo/family-letters/sara-goldberg/ashley-epstein-to-sheila-nevins.html"
+			],
+			[
+				"ashle",
+				"views/hbo/family-letters/sara-goldberg/ashley-epstein-to-sheila-nevins.html"
+			],
+			[
+				"hbo-index",
+				"web/sass/special/_hbo-index-plus.sass"
+			],
+			[
+				"hbo",
+				"web/sass/special/hbo.sass"
+			],
+			[
+				"neat-page-hbo",
+				"includes/neat-page-hbo.html"
+			],
+			[
+				"propa",
+				"views/hbo/alex-gibney/propagandist.html"
+			],
+			[
+				"12-feb",
+				"views/hbo/sheila-nevins/letter-to-s-nevins-12-feb-2015.html"
+			],
+			[
+				"norman",
+				"views/hbo/family-letters/spanky-taylor/norman-taylor-to-sheila-nevins.html"
+			],
+			[
+				"indexlus",
+				"web/sass/special/_hbo-index-plus.sass"
+			],
+			[
+				"index-posts",
+				"includes/hbo/index-posts.html"
+			],
+			[
+				"docum",
+				"views/hbo/alex-gibney/documentary.html"
+			],
+			[
+				"hbo-index-plus",
+				"web/sass/special/_hbo-index-plus.sass"
+			],
+			[
+				"typogra",
+				"web/sass/plugins/base/_typography.scss"
+			],
+			[
+				"typograph",
+				"web/sass/common/_typography.sass"
+			],
+			[
+				"menus.",
+				"data/menus.xml"
+			],
+			[
+				"inac",
+				"includes/hbo/inactive-sources-menu.html"
+			],
+			[
+				"hbo-plus",
+				"web/sass/special/_hbo-index-plus.sass"
+			],
+			[
+				"neat-page-",
+				"includes/neat-page-hbo.html"
+			],
+			[
+				"update",
+				"views/hbo/updates.html"
+			],
+			[
+				"prison-",
+				"views/hbo/videos/prison-camp.html"
+			],
+			[
+				"hbo-sass",
+				"web/sass/special/_hbo-index-plus.sass"
+			],
+			[
+				"hbo-post",
+				"web/theme/js/hbo-posts-display.js"
+			],
+			[
+				"indexsass",
+				"web/sass/special/_hbo-index-plus.sass"
+			],
+			[
+				"featured",
+				"includes/hbo/menu-featured-videos.html"
+			],
+			[
+				"typog",
+				"web/sass/common/_typography.sass"
+			],
+			[
+				"_varia",
+				"web/sass/plugins/base/_variables.scss"
+			],
+			[
+				"varia",
+				"web/sass/plugins/base/_variables.scss"
+			],
+			[
+				"prison",
+				"views/hbo/videos/prison-camp.html"
+			],
+			[
+				"upda",
+				"views/hbo/updates.html"
+			],
+			[
+				"hbo-l",
+				"includes/hbo-left.html"
+			],
+			[
+				"neat-",
+				"includes/neat-page-hbo.html"
+			],
+			[
+				"alex-gibney/pro",
+				"views/hbo/alex-gibney/propagandist.html"
+			],
+			[
+				"documen",
+				"views/hbo/white-papers/documentary-sources.html"
+			],
+			[
+				"mike",
+				"views/hbo/white-papers/mike-rinder.html"
+			],
+			[
+				"marty",
+				"views/hbo/white-papers/marty-rathbun.html"
+			],
+			[
+				"hbosass",
+				"web/sass/special/_201501-hbo-lost-1.sass"
+			],
+			[
+				"span",
+				"views/hbo/white-papers/spanky-taylor.html"
+			],
+			[
+				"gibney",
+				"views/hbo/alex-gibney/documentary.html"
+			],
+			[
+				"2015-hb",
+				"web/sass/special/_201501-hbo-index.sass"
+			],
+			[
+				"video/span",
+				"views/hbo/videos/spanky-taylor.html"
+			],
+			[
+				"hana",
+				"views/hbo/white-papers/hana-whitfield.html"
+			],
+			[
+				"spank",
+				"views/hbo/white-papers/spanky-taylor.html"
+			],
+			[
+				"mary",
+				"views/hbo/white-papers/marty-rathbun.html"
+			],
+			[
+				"hbo.",
+				"web/theme/css/hbo.css"
+			],
+			[
+				"landing.sass",
+				"web/sass/regions/content/_landing.sass"
+			],
+			[
+				"sara-goldberg/ashley-epstein-to-sheila-nevins.html",
+				"views/hbo/family-letters/sara-goldberg/ashley-epstein-to-sheila-nevins.html"
+			],
+			[
+				"menux",
+				"data/menus.xml"
+			],
+			[
+				"religion",
+				"web/sass/issues/_201501-religion.sass"
+			],
+			[
+				"style",
+				"web/theme/icomoon/style.css"
+			],
+			[
+				"redire",
+				"src/site_www_freedommag_org3/redirects.go"
+			],
+			[
+				"news",
+				"views/issue/201501-religion/newsbriefs.html"
+			],
+			[
+				"landing",
+				"views/issue/201501-religion/landing.html"
+			],
+			[
+				"hbo2index",
+				"views/hbo2/index.html"
+			],
+			[
+				"hboinde",
+				"views/hbo/index.html"
+			],
+			[
+				"cover",
+				"views/issue/201501-religion/cover.html"
+			],
+			[
+				"hboindx",
+				"views/hbo/index.html"
+			],
+			[
+				"about.html",
+				"views/about.html"
+			],
+			[
+				"hbo-si",
+				"email/hbo-subscribe.html"
+			],
+			[
+				"letter.html",
+				"views/letter.html"
+			],
+			[
+				"about",
+				"views/about.html"
+			],
+			[
+				"about.",
+				"views/about.html"
+			],
+			[
+				"vide",
+				"web/theme/css/video-custom.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Code/koans.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 403.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

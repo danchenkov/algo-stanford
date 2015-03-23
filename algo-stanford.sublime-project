@@ -1,0 +1,40 @@
+{
+  "folders":
+  [
+    {
+      "file_exclude_patterns":
+      [
+        "*.jpg",
+        "*.jpeg",
+        "*.png",
+        "*.otf",
+        "*.woff",
+        "*.ttf",
+        "*.gif",
+        "*.tga",
+        "*.dds",
+        "*.ico",
+        "*.eot",
+        "*.pdf",
+        "*.psd",
+        "*.sassc",
+        "*.scssc",
+        "*.swf",
+        "*.jar",
+        "*.zip",
+        "*.indd",
+        "*.idml",
+        "*.sublime-project",
+        "*.ftdb",
+        "*.bat"
+      ],
+      "folder_exclude_patterns":
+      [
+        ".sass-cache",
+        "pkg",
+      ],
+      "follow_symlinks": true,
+      "path": "."
+    }
+  ]
+}
