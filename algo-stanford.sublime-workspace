@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"in",
+				"Inversions	int ν"
+			],
+			[
 				"cell",
 				"cellspacing	Attr"
 			],
@@ -510,10 +514,6 @@
 			[
 				"li",
 				"line-height"
-			],
-			[
-				"bloc",
-				"inline-block"
 			]
 		]
 	},
@@ -523,7 +523,7 @@
 			"file": "mergesort.go",
 			"settings":
 			{
-				"buffer_size": 1578,
+				"buffer_size": 2027,
 				"line_ending": "Unix"
 			}
 		}
@@ -627,6 +627,10 @@
 	],
 	"file_history":
 	[
+		"/Users/adanchenkov/Sites/freedom/views/issue/201503-reading/nation/high-and-dry-farmers-california-drought.html",
+		"/Users/adanchenkov/Sites/freedom/.gitignore",
+		"/Users/adanchenkov/Sites/freedom/compile.sh",
+		"/Users/adanchenkov/Sites/freedom/web/theme/photoswipe/default-skin/default-skin.css",
 		"/Users/adanchenkov/Code/algo-stanford/algo-stanford.sublime-project",
 		"/Users/adanchenkov/Sites/mailer/app/views/mailer/reading_freedom_mailing.html.erb",
 		"/Users/adanchenkov/Sites/mailer/app/models/mailing.rb",
@@ -637,7 +641,6 @@
 		"/Users/adanchenkov/Sites/mailer/db/migrate/20150318220859_create_beghe_mailing.rb",
 		"/Users/adanchenkov/Sites/mailer/app/models/email.rb",
 		"/Users/adanchenkov/Sites/mailer/db/migrate/20150318233003_add_nbc_users.rb",
-		"/Users/adanchenkov/Sites/freedom/compile.sh",
 		"/Users/adanchenkov/Downloads/cc.csv",
 		"/Users/adanchenkov/Sites/mailer/db/migrate/20150302010537_fill_lists.rb",
 		"/Users/adanchenkov/Sites/mailer/db/migrate/20150223214836_add_names_to_emails.rb",
@@ -751,14 +754,11 @@
 		"/Users/adanchenkov/Sites/mailer/public/robots.txt",
 		"/Users/adanchenkov/Sites/mailer/app/views/regular_mailer/hbo_headley_biglie.html.erb",
 		"/Users/adanchenkov/Sites/mailer/app/views/regular_mailer/hbo_headley_biglie.text.erb",
-		"/Users/adanchenkov/Sites/mailer/db/migrate/20150225233155_populate_nyt_users.rb",
-		"/Users/adanchenkov/Sites/mailer/db/migrate/20150225223858_create_headley_big_lie_mailing.rb",
-		"/Users/adanchenkov/Sites/mailer/app/views/regular_mailer/hbo_headley_rw.text.erb",
-		"/Users/adanchenkov/Sites/mailer/app/mailers/regular_mailer.rb"
+		"/Users/adanchenkov/Sites/mailer/db/migrate/20150225233155_populate_nyt_users.rb"
 	],
 	"find":
 	{
-		"height": 29.0
+		"height": 37.0
 	},
 	"find_in_files":
 	{
@@ -870,6 +870,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"<<",
+			"float64",
 			"meredith.ahr@nbcuni.com",
 			"hbo_mike_rinder_ns",
 			"@hbo.com",
@@ -995,9 +997,7 @@
 			"&c=4",
 			".ieid",
 			"mailings",
-			"\"",
-			"54c00884c1292",
-			", "
+			"\""
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1152,15 +1152,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1578,
+						"buffer_size": 2027,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								50,
-								50
+								624,
+								624
 							]
 						],
 						"settings":
@@ -1169,7 +1169,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 677.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
