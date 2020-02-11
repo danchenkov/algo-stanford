@@ -65,7 +65,7 @@ func TestSecondLargest(t *testing.T) {
 	for _, tt := range testCases {
 		currentTest := make([]int, len(tt.testCase))
 		copy(currentTest, tt.testCase)
-		s := SecondLargestB(currentTest)
+		s, _ := SecondLargestB(currentTest)
 		if s != tt.want {
 			t.Errorf("SecondLargest(%v) = %d; want %d", tt.testCase, s, tt.want)
 		}

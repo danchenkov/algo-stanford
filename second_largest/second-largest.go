@@ -2,7 +2,6 @@ package main
 
 import (
 	"errors"
-	"fmt"
 	"log"
 	"math/bits"
 )
@@ -10,9 +9,11 @@ import (
 // You are given as input an unsorted array of n distinct numbers, where n is a power of 2.
 // Give an algorithm that identifies the second-largest number in the array, and that uses at most `n+log(n)-2` comparisons.
 func main() {
-	// n := []int{2, 1}
 	// run(n)
-	n := []int{2, 4, 3, 1}
+	// n := []int{2, 1}
+	// n := []int{2, 4, 3, 1}
+	// n := []int{2, 4, 6, 3, 8, 1, 5, 7}
+	n := []int{664, 407, 700, 165, 56, 620, 981, 146, 137, 326, 766, 511, 957, 143, 216, 239, 15, 963, 912, 246, 553, 48, 762, 142, 275, 364, 258, 535, 204, 183, 123, 376, 374, 332, 597, 761, 849, 85, 951, 523, 579, 530, 678, 62, 27, 802, 257, 889, 470, 832, 852, 537, 114, 97, 442, 636, 389, 992, 375, 364, 654, 4, 364, 979, 213, 758, 977, 381, 783, 722, 154, 615, 456, 127, 179, 851, 410, 26, 2, 502, 400, 919, 750, 36, 833, 109, 408, 200, 466, 555, 557, 473, 497, 940, 755, 815, 612, 735, 315, 956, 147, 505, 80, 113, 321, 233, 928, 39, 833, 289, 244, 661, 640, 226, 32, 899, 549, 384, 816, 296, 435, 162, 190, 408, 133, 899, 2, 699}
 	run(n)
 	// rand.Seed(time.Now().UTC().UnixNano())
 	// rand.Seed(1580956330)
@@ -36,23 +37,13 @@ func run(n []int) {
 	if bits.OnesCount(uint(len(n))) != 1 {
 		log.Fatal(errors.New("Array length is not of power of two"))
 	}
-	s := SecondLargestB(n)
-	fmt.Println(s)
-}
-
-func log2_32(value uint32) uint32 {
-	tab32 := [32]uint32{0, 9, 1, 10, 13, 21, 2, 29, 11, 14, 16, 18, 22, 25, 3, 30, 8, 12, 20, 28, 15, 17, 24, 7, 19, 27, 23, 6, 26, 5, 4, 31}
-	value |= value >> 1
-	value |= value >> 2
-	value |= value >> 4
-	value |= value >> 8
-	value |= value >> 16
-	return tab32[uint32(value*0x07C4ACDD)>>27]
+	SecondLargestB(n)
 }
 
 // pair implementation with running time O(2*n)
-func SecondLargestA(n []int) int {
+func SecondLargestA(n []int) (int, int) {
 	var largest, second int
+	var counter int
 	if n[0] > n[1] {
 		largest = n[0]
 		second = n[1]
@@ -68,104 +59,39 @@ func SecondLargestA(n []int) int {
 			if n[i] >= second {
 				second = n[i]
 			}
+			counter++
 		}
+		counter++
 	}
-	return second
-}
-
-func iPow(a int, b int) int {
-	var result int = 1
-	for 0 != b {
-		if 0 != (b & 1) {
-			result *= a
-		}
-		b >>= 1
-		a *= a
-	}
-	return result
+	return second, counter
 }
 
 // pair implementation with running time O(n + log(n) - 2)
-func SecondLargestB(n []int) int {
+func SecondLargestB(n []int) (int, int) {
+	var counter int
 	losses := map[int][]int{}
-
-	// fmt.Printf("N: %v\n", n)
-	// fmt.Printf("len(n): %d\n", len(n))
-	// for level := 0; (2 >> level) < len(n); level++ {
-	// 	fmt.Printf("Level: %d\n", level)
-	// 	for i := 0; i+2<<level < len(n); i += iPow(2, level) {
-	// 		fmt.Printf("i: %d, iterator: %d\n", i, 2>>level)
-	// 		fmt.Printf("n[%d]=%d vs n[%d]=%d\n", i, n[i], i+2<<level, n[i+2<<level])
-	// 		if n[i] > n[i+2<<level] {
-	// 			losses[i] = append(losses[i], n[i+2<<level])
-	// 		} else {
-	// 			n[i] = n[i+2<<level]
-	// 		}
-	// 	}
-	// }
-	// fmt.Printf("N: %v\n", n)
 	for len(n) > 1 {
 		l := len(n) / 2
 		for i := 0; i < l; i++ {
+			// counter++
 			if n[i] > n[l+i] {
 				losses[n[i]] = append(losses[n[i]], n[l+i])
 			} else {
 				losses[n[l+i]] = append(losses[n[l+i]], n[i])
 				n[i] = n[l+i]
 			}
-			// fmt.Println("Losers: ", losses)
+			counter++
 		}
 		n = n[0:l]
-		// fmt.Printf("N: %v\n", n)
+		// counter++
 	}
 	f := n[0]
-	// fmt.Println("Winner: ", f)
-	// fmt.Println("Losers: ", losses[f])
 	s, loss := losses[f][0], losses[f][1:]
-	// fmt.Println("Candidate: ", s)
-	// fmt.Println(" or one of ", loss)
-	// fmt.Printf("len(loss): %d", len(loss))
 	for _, c := range loss {
 		if c > s {
+			counter++
 			s = c
 		}
 	}
-	// fmt.Println()
-	// fmt.Println()
-	// fmt.Println()
-	return s
+	return s, counter
 }
-
-// func SecondLargestB(n []int) (s int) {
-// 	var half int
-// 	var level int
-// 	var i int
-// 	// maxlevel := int(math.Log2(float64(len(n))))
-// 	maxlevel := log2_32(int(len(n)))
-// 	losses := make([]int, 0, maxlevel)
-// 	// fmt.Printf("   I: %v\n", n)
-// 	for level = 0; level < maxlevel-1; level++ {
-// 		half = int(len(n) / (2 << level))
-// 		for i = 0; i < half; i++ {
-// 			if n[i+half] > n[i] {
-// 				losses = append(losses, n[i])
-// 				n[i] = n[i+half]
-// 			} else {
-// 				losses = append(losses, n[i+half])
-// 			}
-// 		}
-// 		// fmt.Printf("%4d: %v\n", level, n[0:len(n)/(2<<level)])
-// 	}
-// 	// fmt.Printf("LOSSES: %v\n", losses)
-// 	if n[1] > n[0] {
-// 		s = n[0]
-// 	} else {
-// 		s = n[1]
-// 	}
-// 	for i = 0; i < int(len(losses)); i++ {
-// 		if losses[i] > s {
-// 			s = losses[i]
-// 		}
-// 	}
-// 	return s
-// }
